@@ -1,0 +1,8 @@
+git --version
+git clone https://github.com/Srishti5944/deltademo.git
+ls
+ls -a(for including hidden files too)
+git status
+to make changes first add & then make changes
+add(staged)
+ehen u add then it becomes staged
