@@ -6,3 +6,22 @@ git status
 to make changes first add & then make changes
 add(staged)
 ehen u add then it becomes staged
+untraked=unmodified=modified=staged
+
+git add .=>for adding all  files
+for one file=>git add index.html
+
+after adding it becomes staged
+then commit
+
+multiple add but one commit
+
+git commit -m "meaniful msg"
+
+after commiting yellow color disappears
+// to show  changes in original repo use push
+git push
+
+to make a folder a repo in git we use"init"
+git init
+Initialized empty Git repository in C:/Users/sudhanshu/Desktop/git/.git/
